@@ -1,0 +1,57 @@
+@charset "utf-8";
+nav .menu {
+
+   text-align: center;
+
+   }
+
+  nav .menu li{
+
+   display: inline-block;
+   padding: 15px 29px;
+   list-style: none;
+
+    }
+
+  nav .menu li a{
+
+    text-decoration: none;
+    color: #000;
+    text-transform: uppercase;
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 0.9em;
+
+    }
+
+
+   nav .menu li a:hover{
+
+      border-bottom: 2px solid #F13006;
+      border-radius: 4px;
+
+    }
+
+li .logo img {
+    width: 210px;
+    height: 80px;
+
+}
+body {
+    background-image: url(Imagenes/paisaje-del-verano-lago-bosque-monta%C3%B1a-flores-127390890.jpg);
+	background-attachment: fixed;
+	
+}
+
+.Contenido .Info_imagenes {
+    background-color: rgba(160,108,245,0.47);
+    width: 70%;
+}
+.Contenido .Info_imagenes .Conten_prin {
+    float:center;
+    width: 100%;
+
+}
+body footer {
+    background-color: rgba(178,87,224,0.40);
+    clear: both;
+}

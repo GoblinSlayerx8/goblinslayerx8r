@@ -1,0 +1,90 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Armaduras</title>
+<!-- TemplateEndEditable -->
+<link href="../Untitled-1.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<nav id="menu_prin">
+      <ul class="menu">
+		  <li> <a href="" class="logo"><img src="../Imagenes/Terraria-Logo.png" alt= "Terraria"></a></li>
+          <li><a href="" class="inicio">Inicio</a></li>
+          <li class="prod"><a href="#" class="linkprod">Armaduras Y Armas</a></li>
+            <li><a href="../quienessomos.html">Jefes</a></li>
+        <li><a href="#">Productos</a></li>
+            <li><a href="../contacto.html">Contacto</a></li>
+  </ul>
+  </nav>
+	
+		<main class="Contenido">
+		<div>
+		<marquee><a href="https://static.wikia.nocookie.net/terraria/images/9/9d/Guide.gif/revision/latest?cb=20130602111047&amp;path-prefix=de" class="image image-thumbnail" title="">
+		<img src="https://static.wikia.nocookie.net/terraria/images/9/9d/Guide.gif/revision/latest?cb=20130602111047&amp;path-prefix=de" srcset="https://static.wikia.nocookie.net/terraria/images/9/9d/Guide.gif/revision/latest?cb=20130602111047&amp;path-prefix=de 1x, https://static.wikia.nocookie.net/terraria/images/9/9d/Guide.gif/revision/latest?cb=20130602111047&amp;path-prefix=de 2x" class="pi-image-thumbnail" alt="" width="40" height="48" data-image-key="Guide.gif" data-image-name="Guide.gif" data-gtm-vis-recent-on-screen-31059910_570="1198" data-gtm-vis-first-on-screen-31059910_570="1198" data-gtm-vis-total-visible-time-31059910_570="100" data-gtm-vis-has-fired-31059910_570="1" >
+		</a>
+		</marquee>
+
+		
+		</div>
+	<br>
+		
+	  <aside class="Naveg_cont">
+		<div>
+		  <h2>Cotenido</h2>
+			
+		  <ul type="circle">
+			<li><a href="../Terraria.html#menu_prin">Menu Principal </a></li>
+			 <li><a href="../Terraria.html#guia_pric">Creacion del mundo y personaje </a></li>
+			 <li><a href="../Terraria.html#noc_basi">Nociones basicas </a></li>
+			 <li><a href="../Terraria.html#prim_dia">Tu primer dia </a></li>
+			 <li><a href="../Terraria.html#Cons_casa">¿Como construir tu casa?</a></li>
+			 <li></li>
+			 <li></li>
+			
+			</ul>
+		  </div>
+		
+		
+		</aside>
+		
+	  <section class="Info_imagenes"> "Info_imagenes"
+		  <br>
+	
+		  <article class="Conten_prin">
+			  
+			  <p>Las <b>armaduras</b> son unos de los </p>
+			  
+			  <figure>
+  <img src="../Imagenes/Armadurasall.jpg" width="462" height="303" alt=""/>
+<figcaption>Tu texto</figcaption>
+</figure>
+			  		  </article>
+		  
+		<article class="Conten_sec">
+			<br><br>
+			<img src="../Imagenes/Terraria.jpg"  alt=""/>
+			<br><br><br><br><br><br>
+			
+		  	<img src="../Imagenes/5fed3e62e55bfd0.png"  alt=""/> 
+		 	<br><br><br><br><br><br><br><br>
+			
+		  <img src="../Imagenes/Bosque_1.jpg"  alt=""/>
+			<br><br><br><br><br><br><br><br><br><br><br>
+		  <img src="../Imagenes/Screenshot_2015-05-28-10-53-50.png" alt=""/> 
+		  </article>
+		  	
+		  
+		  
+      </section>
+    </main>
+	
+	
+	
+	
+</body>
+</html>
